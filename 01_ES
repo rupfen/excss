@@ -1,1 +1,16 @@
+<html>
+<head>
+<style>
+p {
+  text-align: center;
+  color: red;
+} 
+</style>
+</head>
+<body>
 
+<p> This element is a paragraph. <br>
+it has the property: color and value: red</p>
+
+</body>
+</html>
